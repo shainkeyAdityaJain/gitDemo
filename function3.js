@@ -3,3 +3,5 @@ const getProfileData = (id) => {
 }
 let profileData = getProfileData(2);
 console.log(profileData);
+
+console.log('Hello');
